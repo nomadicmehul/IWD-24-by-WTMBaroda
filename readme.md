@@ -28,6 +28,8 @@
 ✅ Prerequisites:
 - Open Minded
 
+📷 [Event Photos](https://drive.google.com/drive/folders/126LBjWOCqCUVnz0x9G8k5RQrEUvxmcSR?usp=sharing)
+
 ## How to Share Your Learnings
 
 1. **Fork this Repository:**
