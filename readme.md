@@ -27,6 +27,8 @@
 
 📷 [Event Photos](https://drive.google.com/drive/folders/1ka__AUTASzJ2Zd-3cTMTbMgAS6O8Ad2Z?usp=sharing)
 
+💻 [Presentation](https://docs.google.com/presentation/d/1p1gbRayX7lbFbXwYsMZ-3XN-DJpcp3eImRESx-bDyGU/edit?usp=sharing)
+
 ## How to Share Your Learnings
 
 1. **Fork this Repository:**
