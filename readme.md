@@ -1,5 +1,4 @@
-![#2 Meetup - Tech-talk with ML professionals
- by GDG Cloud Gandhinagar](event-cover.jpg)
+![International Women's Day 2024 in WTM Baroda](event-cover.jpg)
 
 [![](https://img.shields.io/badge/Mehul-Patel-brightgreen.svg?colorB=00ff00)](https://www.nomadicmehul.com)
 [![GitHub Mehul Patel](https://img.shields.io/github/followers/nomadicmehul?label=follow&style=social)](https://github.com/nomadicmehul)
@@ -9,25 +8,24 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsbKUys6gsLn0lQbkIshIIQ)
 
 
-### Talk Details : Google Cloud Next '23 Roundup: Let's Dive into the Cloud
+### Talk Details : Google Cloud Operations for Scalability
 
-#### Speaker 1 : Ashish Patel
-#### Speaker 2 : Bhargav Patel
-#### Speaker 3 : Jeet Shah
+#### Description: Learn how Google Cloud Operations supports organizations of all sizes in leveraging the cloud's power and flexibility to transform their operations. Explore key concepts in modern operations, reliability, and resilience, and discover how Google Cloud can facilitate effective resource management and scaling.
+
 
 
 ### Meetup Details 
 
-* [Link to Register](https://gdg.community.dev/events/details/google-gdg-cloud-gandhinagar-presents-2-meetup-tech-talk-with-ml-professionals/)
-* 🗓️ Date: 11th Feb'24
-* ⏰ Time: 10:00 AM - 02:00 PM
-* 🏢 Venue: SAI Branding LLP, 509-510 Synergy Space Road, Gandhinagar, 382421 
+* [Link to Register](https://gdg.community.dev/events/details/google-gdg-baroda-presents-iwd24-iwd-women-techmakers-2024/)
+* 📅 Date: Sunday, March 10,2024
+* 🕒 Time: 10:00 AM – 4:00 PM (Lunch Provided)
+* 📍Venue: AV DEVS Solutions Pvt. ltd.
 
 
 ✅ Prerequisites:
 - Open Minded
 
-📷 [Event Photos](https://drive.google.com/drive/folders/126LBjWOCqCUVnz0x9G8k5RQrEUvxmcSR?usp=sharing)
+📷 [Event Photos](https://drive.google.com/drive/folders/1ka__AUTASzJ2Zd-3cTMTbMgAS6O8Ad2Z?usp=sharing)
 
 ## How to Share Your Learnings
 
